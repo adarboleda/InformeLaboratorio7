@@ -93,7 +93,7 @@ b. Utilice un multímetro para medir el voltaje  variando la frecuencia entre lo
 
 ![image](https://user-images.githubusercontent.com/93734334/153509505-a0b7a07d-8e2c-46c3-a154-4844ac902818.png)
 
-**1.168**
+**1.168V**
 
 *1000Hz*
 
@@ -181,21 +181,21 @@ a. Utilice el osciloscopio para observar el voltaje  variando la frecuencia entr
 
 ![image](https://user-images.githubusercontent.com/93734334/153333760-f7a1efb9-44d1-4663-be55-0bf655772dd3.png)
 
-**10.23**
+**10.23V**
 
 b. Utilice un multímetro para medir el voltaje  variando la frecuencia entre los valores de 0, 10, 50, 100, 500, 1000 Hz. Anote los resultados.
 
 *0Hz*
 
-![image](https://user-images.githubusercontent.com/93734334/153334582-7ee24832-d3a0-4486-a154-a2cf04ae8dd2.png)
+![image](https://user-images.githubusercontent.com/93734334/153512737-039b23e5-1580-48a7-9f24-0305245edc5e.png)
 
-**0.375V**
+**1.926V**
 
 *10Hz*
 
-![image](https://user-images.githubusercontent.com/93734334/153334814-a3e05d95-5302-4130-9de0-8b66a82b6167.png)
+![image](https://user-images.githubusercontent.com/93734334/153512970-c9128dde-8b9d-4e98-8494-9902a8515948.png)
 
-**0.28V**
+**0.228V**
 
 *50Hz*
 
@@ -264,6 +264,16 @@ c. Utilice un multímetro para medir la corriente que atraviesa la resistencia v
 7.4 Análisis de resultados
 
 7.- Para cada uno de los circuitos anteriores, elabore una tabla con los resultados de las diferentes mediciones de voltaje realizadas con el osciloscopio y multímetro. Compare y comente los resultados obtenidos tomando en cuenta las distintas frecuencias utilizadas.
+
+* Figura1
+
+![image](https://user-images.githubusercontent.com/93734334/153514936-4064c4fa-c4cf-41ba-9ee9-4b9eb114fc17.png)
+
+* Figura2
+
+![image](https://user-images.githubusercontent.com/93734334/153514955-7b44824e-ba30-4f91-8a9a-cba611f74378.png)
+
+* Como bien se sabe lo multimetros no dan el voltaje pico es por esto que los valores son distintos, sin embargo si se multiplica por 0.707 a los voltajes picos van a dar valores bastantes aproximados a los del multimetro, y es que los multimetros dan el valor eficaz es decir Vrms, mientras que un osiloscopio da Vp que es el valor pico.
 
 7.5 Preguntas
 
