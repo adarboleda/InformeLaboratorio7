@@ -249,7 +249,7 @@ c. Utilice un multímetro para medir la corriente que atraviesa la resistencia v
 
 ![image](https://user-images.githubusercontent.com/93734334/153336803-e8b97b85-f09f-451d-8164-53cf7893fbcd.png)
 
-**-0.04**
+**-0.04757V**
 
 *1000Hz*
 
