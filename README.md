@@ -103,15 +103,39 @@ c. Utilice un multímetro para medir la corriente que atraviesa la resistencia v
 
 *0Hz*
 
+![image](https://user-images.githubusercontent.com/93734334/153330057-92531e4c-4ae0-454f-a74f-a1cb51b7c34e.png)
+
+**0.0483A**
+
 *10Hz*
+
+![image](https://user-images.githubusercontent.com/93734334/153330163-0cf2954c-3c83-4476-a4de-aaa16eaacb19.png)
+
+**0.01058A**
 
 *50Hz*
 
+![image](https://user-images.githubusercontent.com/93734334/153330262-022780f6-f5bd-4a99-8f69-a898c6ddbe33.png)
+
+**-0.04557A**
+
 *100Hz*
+
+![image](https://user-images.githubusercontent.com/93734334/153330330-31f88e50-b565-4859-a940-5bbe06e4113a.png)
+
+**0.0478A**
 
 *500Hz*
 
+![image](https://user-images.githubusercontent.com/93734334/153330478-a87d4ff1-a9a3-40b9-93e2-ad876bbecd3d.png)
+
+**0.01113A**
+
 *1000Hz*
+
+![image](https://user-images.githubusercontent.com/93734334/153330606-f29de94e-e42b-4bdf-b840-2f1d0b59794d.png)
+
+**-0.00073A**
 
 2.- Construya el circuito mostrado en la Figura 2
 
