@@ -67,37 +67,39 @@ b. Utilice un multímetro para medir el voltaje  variando la frecuencia entre lo
 
 *0Hz*
 
-![image](https://user-images.githubusercontent.com/93734334/153327314-ac2bf8c0-1c6d-4dd6-a14c-3f8c7445492c.png)
+![image](https://user-images.githubusercontent.com/93734334/153507154-bce3557c-fe29-4dff-9f25-43be8fba09dd.png)
 
-**5.985V**
+**4.634V**
 
 *10Hz*
 
-![image](https://user-images.githubusercontent.com/93734334/153327545-ad927f6a-c9dd-4841-a811-7aded3be613e.png)
+![image](https://user-images.githubusercontent.com/93734334/153508545-74933d48-4778-4e2a-b74f-974aa6736200.png)
 
-**3.02V**
+**5.397V**
 
 *50Hz*
 
-![image](https://user-images.githubusercontent.com/93734334/153327878-ca998bfa-5bfc-44fe-923e-8d86465e0a91.png)
+![image](https://user-images.githubusercontent.com/93734334/153508730-56d44fe0-330a-422d-b6fc-ce2618d04d9d.png)
 
-**8.56V**
+**6.052V**
 
 *100Hz*
 
-![image](https://user-images.githubusercontent.com/93734334/153327970-42df9712-796d-4af8-9c8a-69606739e74a.png)
+![image](https://user-images.githubusercontent.com/93734334/153509062-4238ea2c-c6b9-45e6-95c2-9cc4babba4ca.png)
 
-**5.199V**
+**4.637V**
 
 *500Hz*
 
-![image](https://user-images.githubusercontent.com/93734334/153328057-cd346c3e-dbaf-4e99-8cf4-6091b2af8e1e.png)
+![image](https://user-images.githubusercontent.com/93734334/153509505-a0b7a07d-8e2c-46c3-a154-4844ac902818.png)
+
+**1.168**
 
 *1000Hz*
 
-![image](https://user-images.githubusercontent.com/93734334/153328129-34958ae2-f14c-4b0e-a0ac-225925ae4ba7.png)
+![image](https://user-images.githubusercontent.com/93734334/153509693-69127fcf-d047-4573-9fc0-f5069b821be5.png)
 
-**1.237V**
+**0.59V**
 
 c. Utilice un multímetro para medir la corriente que atraviesa la resistencia variando la frecuencia entre los valores 0, 10, 50, 100, 500, 1000 Hz. Anote los resultados.
 
