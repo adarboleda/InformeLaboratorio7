@@ -4,7 +4,13 @@
 
 Objetivo General:
 
+* Comprobar experimentalmente cómo se comportan las bobinas y el capacitor en el circuito eléctrico DC y AC mediante un análisis analítico y una simulación de medida.
+
 Objetivos Específicos:  
+
+* Explicar en qué consiste los inductores y capacitores.
+
+* Analizar el comportamiento de un circuito utilizando un osciloscopio y un multímetro, además verificar las combinaciones serie y paralelo de bobinas y capacitores.
 
 2. MARCO TEÓRICO 
 
