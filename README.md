@@ -279,10 +279,18 @@ c. Utilice un multímetro para medir la corriente que atraviesa la resistencia v
 
 1.- ¿Cómo se comportan la bobina y el capacitor en corriente continua (cero Hz)?
 
+* La bobina en una corriente continua se comporta como un corto circuito y deja pasar la corriente a través de esta sin ninguna oposición.
+
+* El capacitor en una corriente continua se comporta como un acumulador de carga.
 
 2.- ¿Cómo se comportan la bobina y el capacitor en corriente alterna?
 
+* Cuando a una bobina se le aplica un voltaje de corriente alterna, se produce un campo magnético que varia continuamente, por esto tambien va a existir un voltaje contrario inducido permanetemente en opopsicion a la corriente alterna principal.
+
+* El capacitor en correitne alterna se comporta como un circuito abierto para todos los casos. Cuando se une el capacitor a una fuente de voltaje alterno, el voltaje en las placas cambia de acuardo al cambio del voltaje de la fuente, y la carga de las placas del capacitor, cambia de igual manera.
+
 3.- ¿Qué cree usted que ocurriría con el voltaje  y la corriente de la resistencia en los circuitos analizados en esta práctica, si se utilizan dos bobinas o dos capacitores de valores distintos?
+
 
 4.- ¿Qué son los valores eficaces de voltaje y corriente?
 
