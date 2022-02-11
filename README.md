@@ -291,6 +291,7 @@ c. Utilice un multímetro para medir la corriente que atraviesa la resistencia v
 
 3.- ¿Qué cree usted que ocurriría con el voltaje  y la corriente de la resistencia en los circuitos analizados en esta práctica, si se utilizan dos bobinas o dos capacitores de valores distintos?
 
+En la figura uno si se utilzan dos capacitores de valores distintos, ya sea el uno mayor o menor al otro, el voltaje y la corriente van a variar un poco, por otro lado en la figura dos si se usan dos bobinas de valores distintos, el voltaje va a aumentar o disminuir, sin embargo la corriente se va a mantener constante
 
 4.- ¿Qué son los valores eficaces de voltaje y corriente?
 
