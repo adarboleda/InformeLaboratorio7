@@ -14,7 +14,7 @@ Objetivos Específicos:
 
 2. MARCO TEÓRICO 
 
-![image](https://user-images.githubusercontent.com/93733175/153671605-cccf9099-504b-4d30-b5f6-c24e833a6cd5.png)
+![image](https://user-images.githubusercontent.com/93733175/153671985-6e4e8ec2-c84c-4150-844a-d26a7c908fba.png)
 
 3. EXPLICACIÓN DEL PROCEDIMIENTO
 
