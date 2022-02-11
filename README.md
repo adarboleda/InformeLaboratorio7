@@ -279,13 +279,15 @@ c. Utilice un multímetro para medir la corriente que atraviesa la resistencia v
 
 1.- ¿Cómo se comportan la bobina y el capacitor en corriente continua (cero Hz)?
 
+
 2.- ¿Cómo se comportan la bobina y el capacitor en corriente alterna?
 
 3.- ¿Qué cree usted que ocurriría con el voltaje  y la corriente de la resistencia en los circuitos analizados en esta práctica, si se utilizan dos bobinas o dos capacitores de valores distintos?
 
 4.- ¿Qué son los valores eficaces de voltaje y corriente?
 
-5. VIDEO
+Los valores eficaces son los valores que tendria una corriente continua, la cual produjera la misma potencia de dicha corriente alterna, en otras palabras si se mide, por ejemplo, una tensión de 5 voltios en alterna, lo que dice el aparato de medida, es que esa onda en corriente alterna, transmite la misma cantidad de potencia que
+una señal de 5 voltios en corriente continua. Es por esto que se usa valores eficases, puesto que todas las formulas y procesos de calculos, tambein sirven em correinte alterna.
 
 6. CONCLUSIONES
 
