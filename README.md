@@ -14,6 +14,8 @@ Objetivos Específicos:
 
 2. MARCO TEÓRICO 
 
+![image](https://user-images.githubusercontent.com/93733175/153669594-c306e7ed-2a89-45c5-aa7d-2b18643bb74c.png)
+
 3. EXPLICACIÓN DEL PROCEDIMIENTO
 
 **Materiales**
@@ -309,6 +311,8 @@ una señal de 5 voltios en corriente continua. Es por esto que se usa valores ef
 7. BIBLIOGRAFÍA
 
 Floyd, T. (2007). Principios de circuitos eléctricos. PEARSON Educación. https://drive.google.com/file/d/15UCq2JrPEKKB8SwajlmtTcE07nMiowaK/view
+
+Lopez, H. (28 de abril de 2021). MecatrónicaLATAM. Obtenido de https://www.mecatronicalatam.com/es/tutoriales/electronica/componentes-electronicos/inductor/
 
 RUBRICA
 
