@@ -306,7 +306,11 @@ En la figura uno si se utilizan dos capacitores de valores distintos, ya sea el 
 Los valores eficaces son los valores que tendria una corriente continua, la cual produjera la misma potencia de dicha corriente alterna, en otras palabras si se mide, por ejemplo, una tensión de 5 voltios en alterna, lo que dice el aparato de medida, es que esa onda en corriente alterna, transmite la misma cantidad de potencia que
 una señal de 5 voltios en corriente continua. Es por esto que se usa valores eficases, puesto que todas las formulas y procesos de calculos, tambein sirven em correinte alterna.
 
-6. CONCLUSIONES
+5. VIDEO
+
+https://www.youtube.com/watch?v=TKhMIsr3UDY
+
+7. CONCLUSIONES
 
 7. BIBLIOGRAFÍA
 
