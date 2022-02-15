@@ -311,6 +311,8 @@ una señal de 5 voltios en corriente continua. Es por esto que se usa valores ef
 https://www.youtube.com/watch?v=TKhMIsr3UDY
 
 7. CONCLUSIONES
+* El inductor consiste en un tramo de alambre enrollado que puede o no tener un núcleo físico y al introducir corriente a través de él produce un campo electromagnético mientras que el capacitor es un componente eléctrico que consiste en dos placas conductora de similar forma una frente a la otra y entre las placas se encuentra un material aislante los capacitores se encargan de guardar energía.
+* El voltaje y la corriente variaban en cada momento, en el análisis con los multímetros no era exacto o el tiempo para determinarlo era muy extenso, con el osciloscopio el voltaje en su valor pico era notable pero de igual forma variaba constantemente.
 
 7. BIBLIOGRAFÍA
 
